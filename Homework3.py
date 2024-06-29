@@ -1,8 +1,8 @@
 name = 'Timofey'
-print(type(name))
+print('Name:', name)
 age = 37
-print(type(age))
-age = (age + 12)
-print(type(age))
+print('Age:', age)
+new_age = (age + 12)
+print('New Age:', new_age)
 is_student = True
-print(type(is_student))
+print('Is Student:', str(is_student))
